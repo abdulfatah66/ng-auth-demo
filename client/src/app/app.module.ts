@@ -25,7 +25,7 @@ import { SignupComponent } from './components/signup/signup.component';
           clientId: 'CHANGE ME'
         },
         twitter: {
-          clientId: 'CHANGE ME',
+          clientId: 'kMQwSV0x9KXjORRyNRuwWMAEu',
           redirectUri: 'http://localhost:4200'
         }
       }

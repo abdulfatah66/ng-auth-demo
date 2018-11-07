@@ -9,6 +9,6 @@ export const config = {
     // OAuth 2.0
     GOOGLE_SECRET: 'CHANGE ME',
     FACEBOOK_SECRET: 'CHANGE ME',
-    TWITTER_SECRET: 'CHANGE ME'
+    TWITTER_SECRET: 'eYyJy0uqQaUrddxHoLBnDMivV9XUEvYhygDjopin8X5T6tK1qH'
   }
 };
